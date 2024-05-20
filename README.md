@@ -66,7 +66,7 @@ If you don't have Miniconda installed, download and install it from the official
 Clone the repository to your local machine using the following command:
 
 ```sh
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/your-username/your-repo.git](https://github.com/ashikaShameera/HeartDiseaseclassificationModel.git
 ```
 
 To run the code in this repository, follow these steps to create a virtual environment and install the required libraries:
